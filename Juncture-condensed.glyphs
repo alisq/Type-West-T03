@@ -1,16 +1,6 @@
 {
 .appVersion = "3434";
 .formatVersion = 3;
-DisplayStrings = (
-A,
-q,
-striptease,
-questforged,
-fthioerj,
-Justtomakeitwork,
-Ali,
-B
-);
 axes = (
 {
 name = Weight;
@@ -277,7 +267,7 @@ unicode = 67;
 },
 {
 glyphname = D;
-lastChange = "2025-10-07 10:53:37 +0000";
+lastChange = "2025-10-26 20:54:53 +0000";
 layers = (
 {
 anchors = (
@@ -296,27 +286,6 @@ pos = (264,650);
 );
 layerId = m002;
 shapes = (
-{
-closed = 0;
-nodes = (
-(20,650,l),
-(20,0,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(20,650,l),
-(20,0,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(125,650,l),
-(125,620,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -931,7 +900,7 @@ unicode = 79;
 },
 {
 glyphname = P;
-lastChange = "2025-10-07 10:18:40 +0000";
+lastChange = "2025-10-26 20:55:11 +0000";
 layers = (
 {
 anchors = (
@@ -946,20 +915,6 @@ pos = (218,650);
 );
 layerId = m002;
 shapes = (
-{
-closed = 0;
-nodes = (
-(20,650,l),
-(20,0,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(126,650,l),
-(126,290,l)
-);
-},
 {
 closed = 1;
 nodes = (

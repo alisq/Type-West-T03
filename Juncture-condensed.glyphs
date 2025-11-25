@@ -44,10 +44,6 @@ pos = -200;
 }
 );
 name = "semibold-600";
-stemValues = (
-0,
-0
-);
 userData = {
 GSCornerRadius = 5;
 GSExtrudeAngle = 30;
@@ -84,10 +80,6 @@ pos = -200;
 }
 );
 name = Regular;
-stemValues = (
-89,
-76
-);
 userData = {
 "Letterink-NibData" = {
 AngleInDegrees = 45;
@@ -178,7 +170,7 @@ unicode = 65;
 },
 {
 glyphname = B;
-lastChange = "2025-11-10 21:26:19 +0000";
+lastChange = "2025-11-24 21:32:49 +0000";
 layers = (
 {
 anchors = (
@@ -256,26 +248,6 @@ nodes = (
 width = 337;
 },
 {
-background = {
-shapes = (
-{
-closed = 0;
-nodes = (
-(273,294,l),
-(99,294,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(272,294,l),
-(353,294,o),
-(372,251,o),
-(372,185,c)
-);
-}
-);
-};
 layerId = "1B8EDE0E-D46F-48F9-B9C6-2CD34FEA95FD";
 shapes = (
 {
@@ -6440,15 +6412,6 @@ type = descender;
 },
 {
 type = "italic angle";
-}
-);
-stems = (
-{
-name = vStem;
-},
-{
-horizontal = 1;
-name = hStem;
 }
 );
 unitsPerEm = 1000;

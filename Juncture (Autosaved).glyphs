@@ -1,5 +1,6 @@
 {
 .appVersion = "3436";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "̀́̋̂̌
@@ -3217,7 +3218,7 @@ unicode = 71;
 },
 {
 glyphname = H;
-lastChange = "2025-11-21 20:58:09 +0000";
+lastChange = "2025-11-25 09:51:13 +0000";
 layers = (
 {
 anchors = (
@@ -3343,22 +3344,23 @@ nodes = (
 width = 1138;
 },
 {
+.lastUpdate = 785757073.544;
 anchors = (
 {
 name = bottom;
-pos = (574,-2);
+pos = (624,-2);
 },
 {
 name = center;
-pos = (574,1038);
+pos = (624,1038);
 },
 {
 name = top;
-pos = (574,1298);
+pos = (624,1298);
 },
 {
 name = topleft;
-pos = (16,1298);
+pos = (66,1298);
 }
 );
 layerId = "1B8EDE0E-D46F-48F9-B9C6-2CD34FEA95FD";
@@ -3366,26 +3368,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(110,2,l),
-(288,2,l),
-(288,590,l),
-(858,590,l),
-(858,2,l),
-(1036,2,l),
-(1036,1298,l),
-(858,1298,l),
-(858,742,l),
-(288,742,l),
-(288,1298,l),
-(110,1298,l)
+(160,2,l),
+(338,2,l),
+(338,590,l),
+(908,590,l),
+(908,2,l),
+(1086,2,l),
+(1086,1298,l),
+(908,1298,l),
+(908,742,l),
+(338,742,l),
+(338,1298,l),
+(160,1298,l)
 );
 }
 );
-width = 1146;
+width = 1246;
 }
 );
 metricRight = "=|";
 unicode = 72;
+changeCount = 2;
 },
 {
 glyphname = I;

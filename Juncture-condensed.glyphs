@@ -3,7 +3,7 @@
 .formatVersion = 3;
 DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
-ABOCDEFGHIJKLMNOPQRSTUVWXYZ,
+aaaaa,
 ELEVATE,
 HOHOHO
 );
